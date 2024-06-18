@@ -1,0 +1,14 @@
+torch
+numpy==1.20.0
+pandas
+matplotlib 
+wandb
+jsonschema
+shortuuid
+seaborn
+scikit-learn==1.5.0
+pyts
+opencv-python
+pillow
+fastdtw
+scipy==1.6.0
