@@ -10,5 +10,17 @@ python3 main.py --pname A_Coffee --task_id 0 --run_mode single --jobs_per_task 1
 # Data
 The data used in this project comes from the [UCR](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/) archive.
 
+# Reference
+If you re-use this work, please cite:
 
+@article{li2025info,
+  title={Info-CELS: Informative Saliency Map-Guided Counterfactual Explanation for Time Series Classification},
+  author={Li, Peiyu and Bahri, Omar and Hosseinzadeh, Pouya and Boubrahimi, Souka{\"\i}na Filali and Hamdi, Shah Muhammad},
+  journal={Electronics},
+  volume={14},
+  number={7},
+  pages={1311},
+  year={2025},
+  publisher={MDPI}
+}
 
